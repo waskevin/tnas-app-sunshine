@@ -1,0 +1,13 @@
+{
+  "name": "Sunshine",
+  "source": "https://app.lizardbyte.dev/Sunshine/",
+  "docker_image": "lizardbyte/sunshine:v2026.1116.25010-ubuntu-22.04",
+  "version": "v2026.1116.25010-ubuntu-22.04",
+  "repository": "https://github.com/waskevin/tnas-app-sunshine",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Sunshine container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
