@@ -1,9 +1,6 @@
 services:
   sunshine:
-    image: 
-lizardbyte/sunshine
-:
-v2026.1116.25010-ubuntu-22.04
+    image: lizardbyte/sunshine:v2026.1116.25010-ubuntu-22.04
     restart: unless-stopped
     environment:
       TZ: Asia/Shanghai
